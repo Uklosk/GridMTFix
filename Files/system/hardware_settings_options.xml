@@ -266,9 +266,24 @@
 				<resolution aspect="16:10" />
 			</graphics_card>
 		</option>
-        <option name="5:3" >
+        	<option name="5:3" >
 			<graphics_card>
 				<resolution aspect="5:3" />
+			</graphics_card>
+		</option>
+	        <option name="21:9" >
+			<graphics_card>
+				<resolution aspect="21:9" />
+			</graphics_card>
+		</option>
+	        <option name="43:18" >
+			<graphics_card>
+				<resolution aspect="43:18" />
+			</graphics_card>
+		</option>
+	        <option name="32:9" >
+			<graphics_card>
+				<resolution aspect="32:9" />
 			</graphics_card>
 		</option>
     </category>
